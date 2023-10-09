@@ -1,0 +1,51 @@
+ @import url(LandingPage.css);
+#menu{
+    width: 100%;
+    background-color: var(--third-color);
+ }
+ #menu h1{
+    color: var(--main-color);
+    font-size: 5vw;
+    text-align: center;
+ }
+
+ .h1{
+
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+     var(--main-color) 0%,
+    var(--primary-color) 29%,
+     var(--second-primary-color) 67%,
+    var(--button-color) 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+
+ }
+ @keyframes textclip {
+   to {
+      background-position: 200% center;
+    }
+ }
+ .menu-sub-para{
+   text-align: center;
+ }
+ #menu h2{
+    color: var(--primary-color);
+    font-weight: bold;
+    border-bottom: 2px solid var(--main-color);
+ }
+ #menu .menu p{
+    font-size:1.05rem;
+    font-weight: 500;
+ }
+ #menu img{
+   width: 30vw;
+ }

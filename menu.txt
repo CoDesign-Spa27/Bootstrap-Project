@@ -1,0 +1,33 @@
+
+Multi-Cuisine Restaurant Menu
+
+Appetizers
+
+Indian: Samosas, Chicken Tikka, Pakoras, Vegetable Spring Rolls
+Chinese: Chicken Manchurian, Gobi Manchurian, Shrimp Fried Rice, Soup Dumplings
+Continental: Calamari Rings, Bruschetta, French Fries, Chicken Wings
+Mexican: Nachos, Quesadillas, Guacamole, Salsa
+
+Main Courses
+
+Indian: Butter Chicken, Chicken Tikka Masala, Biryani, Dal Makhani
+Chinese: Kung Pao Chicken, General Tso's Chicken, Chow Mein, Fried Rice
+Continental: Spaghetti and Meatballs, Chicken Parmesan, Grilled Fish, Steak
+Mexican: Tacos, Burritos, Enchiladas, Quesadillas
+
+Desserts
+
+Indian: Gulab Jamun, Rasmalai, Kulfi, Jalebi
+Chinese: Fried Ice Cream, Mochi, Mango Sticky Rice, Sesame Balls
+Continental: Tiramisu, Chocolate Lava Cake, Cheesecake, New York Cheesecake
+Mexican: Churros, Flan, Tres Leches Cake, Sopapillas
+
+Drinks
+
+Mocktails: Virgin Mojito, Virgin Margarita, Shirley Temple, Blue Lagoon
+Cocktails: Cosmopolitan, Old Fashioned, Martini, Daiquiri
+Beer: Heineken, Kingfisher, Budweiser, Corona
+Wine: Red, White, Rosé, Sparkling  
+ 
+
+ 
