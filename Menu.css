@@ -14,7 +14,7 @@
    text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
-     var(--main-color) 0%,
+     orange 0%,
     var(--primary-color) 29%,
      var(--second-primary-color) 67%,
     var(--button-color) 100%
@@ -40,7 +40,7 @@
  #menu h2{
     color: var(--primary-color);
     font-weight: bold;
-    border-bottom: 2px solid var(--main-color);
+    border-bottom: 1.5px solid white;
  }
  #menu .menu p{
     font-size:1.05rem;
