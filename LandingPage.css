@@ -180,6 +180,8 @@ color: var(--primary-font-color);
 .explore h1{
     color:var(--primary-color);
     padding: 0.5rem;
+    font-weight: bold;
+     
     border-bottom: 1.5px solid white;
 }
 .explore p{
