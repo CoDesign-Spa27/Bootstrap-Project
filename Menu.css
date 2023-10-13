@@ -45,6 +45,7 @@
  #menu .menu p{
     font-size:1.05rem;
     font-weight: 500;
+    text-transform: uppercase;
  }
  #menu img{
    width: 30vw;

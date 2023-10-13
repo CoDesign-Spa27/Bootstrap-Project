@@ -1,23 +1,45 @@
 /* ---------------------------- */
 /*   Media Queries FOR LANDING PAGE */
 /* --------------------------- */
-@media (max-width:580px){
-
+@media (max-width:400px){
     /* ---------------------------- */
     /* for main landing page*/
     /* --------------------------- */
-     .bg-main h1{
+     .bg-main .h1{
         text-align: center;
-        font-size: 10vw;
-        
+        padding-top: 1rem;
+
      }
     .Landing-img img{
+        padding-top: 2rem;
        width:70%;
     }
     .Landing-img{
         padding-left: 25%;
     }
-     
+    @media (max-width:600px) {
+        .bg-main .h1{
+            text-align: center;
+            font-size:8vw;
+        }
+        .Landing-img img{
+            width:20%;
+        }
+      
+    }
+  
+
+    @media (max-width:800px) {
+        .bg-main h1{
+            text-align: center;
+            font-size: 9vw;
+        }
+        .Landing-img img{
+            width: 40%;
+        }
+      
+    }
+  
     /* ---------------------------- */
     /*   for main page content */
     /* --------------------------- */
@@ -34,6 +56,8 @@
       padding: 1.6rem;
         }
     }
+
+   
 
     /* ---------------------------- */
 /*   Media Queries FOR MENU PAGE */
@@ -70,3 +94,28 @@ font-size: 3vw;
     }
 }
  
+
+    /* ---------------------------- */
+/*   Media Queries FOR SignUp PAGE */
+/* --------------------------- */
+@media (max-width:700px) {
+    .signUp{
+        height: 100vh;
+    }
+
+.signUp .row{
+    display: block;
+    flex-direction: row;
+}
+.signUp .signUp-header{
+font-size: 6vw;
+text-align: center;
+padding: 1rem; 
+}
+}
+@media (max-width:500px){
+    .signUp-header{
+        line-height:3rem;
+    }
+
+}
